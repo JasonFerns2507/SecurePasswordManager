@@ -51,8 +51,8 @@ This project showcases skills in:
 
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Python-Password-Manager.git](https://github.com/your-username/Python-Password-Manager.git)
-    cd Python-Password-Manager
+    git clone https://github.com/JasonFerns2507/SecurePasswordManager.git
+    cd SecurePasswordManager
     ```
 
 3.  **Set up a virtual environment (Recommended):**
